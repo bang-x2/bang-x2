@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?text=&fontSize=20&rotate=-30)
 
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bang-x2)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbang-x2%2Fbang-x2%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                 
 
 <a href="https://github.com/jiyeoon" target="_blank">
@@ -29,4 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
